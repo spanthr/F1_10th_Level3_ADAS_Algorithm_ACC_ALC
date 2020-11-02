@@ -107,7 +107,7 @@ Result:
 
 Hardware_Setup 
 
-![](Code/Images/Picture20.png )
+![](Code/Images/picture20.png)
 
 Assemblying the car and 3D printed custom mounts for sensors and battery
 
@@ -128,6 +128,8 @@ Solutions implemented
 
 Exponential filter
 
+![](Code/Images/Picture12.png )
+
 (Filtered_distance)n = w × (sensor_distance)n + (1 – w) × (Filtered_distance)n – 1
 where, w is the weight factor from 0 to 1
 • Weight factor of 80% was selected to compromise
@@ -136,15 +138,20 @@ between desired performance and system lag.
 
 PID Tuning
 
-
+![](Code/Images/Picture13.png )
 
 
 Pulse width Modulation
+
+![](Code/Images/Picture14.png )
 
 Adaptive cruise control and autonomous lane keeping
 
 Keep the vehicle along the center of a
 defined lane
+
+![](Code/Images/Picture16.png )
+
 
 Challenges
  Response time of the steering was very slow when the PID was implemented.
