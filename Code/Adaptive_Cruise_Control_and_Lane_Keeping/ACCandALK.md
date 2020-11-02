@@ -32,15 +32,20 @@ The objective was to design and implement the vehicle control algorithms such th
 ## Adaptive Cruise Conrol
 
 Sampling the time data received from the sensor
+
 Implementing Exponential Filter
+
 PID Implementation
+
 PWM Implementation
 
 
 ## Autonomous Lane Keeping
 
 Sampling the time data received from the sensor
+
 Implementing Exponential Filter
+
 PID Implementation
  
 
