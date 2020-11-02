@@ -1,6 +1,6 @@
-For ACC
+## ACC
 
-Firstly, the Exponential filter and Servo library was imported in the code to use it in the next steps.
+The Exponential filter and Servo library was imported in the code to use it in the next steps.
 
 Variables were defined for exponential filter and PID controller and initial values were set for the steering and throttle.
 
@@ -14,10 +14,9 @@ PD controller implementation for throttle control with the implementation of dea
 
 Weight factor of 80% was selected to compromise between desired performance and system lag.
 
+## Lane keeping
 
-For Lane keeping
-
-Firstly, the Exponential filter and Servo library was imported in the code to use it in the next steps.
+The Exponential filter and Servo library was imported in the code to use it in the next steps.
 
 Variables were defined for exponential filter and PID controller and initial values were set for the steering and throttle.
 
