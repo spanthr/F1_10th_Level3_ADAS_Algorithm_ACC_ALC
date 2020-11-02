@@ -166,11 +166,22 @@ car can steer well.
 • PD controller was implemented to decrease the response time of the steering.
 
 
-Results
+# Results
 
 ![](Code/Images/picture11.png)
 
+Lane Keeping
 
-• Course completed in 23 sec.
-• Only one attempt.
-• All checkpoints cleared.
+![](Code/Images/1.png)
+
+Cruises 30cm away from the obstacle
+
+![](Code/Images/2.png)
+
+
+
+Fastest lap recorded: Course completed in 23 sec.
+
+Only one attempt.
+
+All checkpoints cleared.
