@@ -107,7 +107,7 @@ Hardware_Setup
 
 Assemblying the car and 3D printed custom mounts for sensors and battery
 
-![](Code/Images/Picture15.png )
+![](Code/Images/Picture15.jpg )
 
 Adaptive Cruise Control
 • Ensures that the vehicle cruises at a
