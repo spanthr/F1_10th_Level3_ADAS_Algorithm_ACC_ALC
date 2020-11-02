@@ -5,6 +5,8 @@
 
 ## Project 1: Embedded System and Sensor Signal Processing
 
+![](Code/Images/Picture1.png )
+
 Task Overview
 Challenges faced
 Solutions Implemented
