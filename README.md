@@ -83,9 +83,13 @@ Used area of triangle formula (Heron’s formula)
 and Pythagoras theorem to find out x coordinate.
 ➢ Method 2
 Using distance formula
+
+![](Code/Images/Picture10.jpg )
+
 • Used modular design for sensor mounting to vary
 distance between sensors which covers maximum
 detection area.
+
 
 Hardware Setup
 
@@ -97,7 +101,7 @@ Hardware Setup
 
 Result:
 
-![](Code/Images/Picture8.png )
+![](Code/Images/picture8.png )
 
 ## Project – 2: Adaptive cruise control and autonomous lane keeping
 
