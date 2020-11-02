@@ -14,4 +14,4 @@ Output the distance in real time and flash an LED and sound a buzzer when filter
 The hardware used for this task are: Arduino Uno board, two HCSR04 sensors, breadboard and wires to connect everything, resistor, LED and buzzer. The given figure explains the connections used in the setup.
 
 
-![](https://github.com/spanthr/F1_10th_Level3_ADAS_Algorithm_ACC_ALC/blob/main/Code/Images/{Picture8.png)
+![](https://github.com/spanthr/F1_10th_Level3_ADAS_Algorithm_ACC_ALC/blob/main/Code/Images/Picture8.png)
