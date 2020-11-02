@@ -34,6 +34,13 @@ PWM is also implemented to make the car run slower on the slope so that the car 
 
 Weight factor of 80% was selected to compromise between desired performance and system lag.
 
+# Result of ACC
+
+Cruises 30cm away from the obstacle
+
+![_](https://github.com/spanthr/F1_10th_Level3_ADAS_Algorithm_ACC_ALC/blob/main/Code/Images/2.png)
+
+
 ## Lane keeping
 
 The Exponential filter and Servo library was imported in the code to use it in the next steps.
@@ -45,4 +52,13 @@ Variables were defined for exponential filter and PID controller and initial val
 Time data received from the ultrasonic sensor is sampled and converted to distance in real time.
 
 PD controller implemented for steering control.
+
+
+
+# Result of ALK
+
+Maintains Lane
+
+![_](https://github.com/spanthr/F1_10th_Level3_ADAS_Algorithm_ACC_ALC/blob/main/Code/Images/1.png)
+
 
