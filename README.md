@@ -60,12 +60,17 @@ Task - 3 : Ultrasound-based Localization System
 
 ![](Code/Images/Picture3.png )
 
+
+
 Steps sequence for the Task 3:
 •Sampling the time data from the two ultra-sonic sensor.
 •Calibration to map the time data to real distance using a fitting function.
 •Localization done to calculate x and y coordinates.
 •Fusion of two ultrasonic sensors to filter the x and y coordinates received after calibration
 using Kalman filter.
+
+
+![](Code/Images/3.png )
 
 
 ![](Code/Images/Picture4.png )
@@ -100,6 +105,10 @@ Hardware Setup
 ![](Code/Images/Picture9.png )
 
 Result:
+
+Convergence in 7.8 seconds.
+Piece-wise calibration gave us an accuracy of +/- 5 mm.
+Coefficients of calibration function for sensor 1 and 2 as below: Sensor 1 A= 0.1757 B= -3.8058 Sensor 2 A=0.1759 B= -8.8477
 
 ![](Code/Images/Picture8.png )
 
