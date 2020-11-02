@@ -57,7 +57,7 @@ PD controller implemented for steering control.
 
 # Result of ALK
 
-Maintains Lane
+Maintains Lane thriughout the track
 
 ![_](https://github.com/spanthr/F1_10th_Level3_ADAS_Algorithm_ACC_ALC/blob/main/Code/Images/1.png)
 
