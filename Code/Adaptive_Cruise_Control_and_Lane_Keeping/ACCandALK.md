@@ -15,7 +15,7 @@ Two ultrasonic sensors
 
 ## Project 2 Tasks
 
-The objective was to design and implement the vehicle control algorithms such that vehicle was able to maintain a distance of 30cm from any object placed ahead of it. It was also required to stop the vehicle 30cm away from a stationary obstacle placed ahead of it. The second was to maintain a distance of 40cm from the side wall and remain in the center of the defined lane.
+The objective was to design and implement the vehicle control algorithms such that vehicle was able to maintain a distance of 30cm from any object placed ahead of it. It was also required to stop the vehicle 30cm away from a stationary obstacle placed ahead of it. The second was to maintain a distance of 30cm from the side wall and remain in the center of the defined lane.
 
 ## Adaptive Cruise Conrol
 
