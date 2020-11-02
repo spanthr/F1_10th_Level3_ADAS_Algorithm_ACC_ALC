@@ -101,7 +101,7 @@ Hardware Setup
 
 Result:
 
-![](Code/Images/picture8.png )
+![](Code/Images/Picture8.png )
 
 ## Project – 2: Adaptive cruise control and autonomous lane keeping
 
@@ -167,6 +167,10 @@ car can steer well.
 
 
 Results
+
+![](Code/Images/picture11.png)
+
+
 • Course completed in 23 sec.
 • Only one attempt.
 • All checkpoints cleared.
