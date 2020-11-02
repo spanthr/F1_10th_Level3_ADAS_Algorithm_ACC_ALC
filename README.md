@@ -11,7 +11,7 @@ Task Overview
 Challenges faced
 Solutions Implemented
 
-## Project 2: Adaptive cruise control and autonomous lane keeping
+![](Code/Images/Picture2.png )
  
 Task Overview
 Challenges faced
