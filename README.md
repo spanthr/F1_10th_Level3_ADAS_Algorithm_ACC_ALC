@@ -1,4 +1,8 @@
 # F1_10th_Level3_ADAS_Algorithm_ACC_ALC
+
+![_](https://github.com/spanthr/F1_10th_Level3_ADAS_Algorithm_ACC_ALC/blob/main/Code/Images/acc_lane_keeping.gif)
+
+
 ## Project 1: Embedded System and Sensor Signal Processing
 
 Task Overview
