@@ -163,16 +163,17 @@ defined lane
 
 
 Challenges
+
  Response time of the steering was very slow when the PID was implemented.
-• Car could not steer well when it moved at high speed(Slope).
-• Random fluctuations in steering when going down the ramp
+Car could not steer well when it moved at high speed(Slope).
+Random fluctuations in steering when going down the ramp
 
 Solutions implemented
-• Exponential filter was implemented for the Steering control to prevent random
+Exponential filter was implemented for the Steering control to prevent random
 fluctuations.
-• Duty cycle for the ESC motor was reduced to reduce the speed of the vehicle so that the
+Duty cycle for the ESC motor was reduced to reduce the speed of the vehicle so that the
 car can steer well.
-• PD controller was implemented to decrease the response time of the steering.
+PD controller was implemented to decrease the response time of the steering.
 
 
 # Results
