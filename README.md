@@ -41,7 +41,7 @@ Task - 2 : Sensor fusion of two Ultrasonic Sensor
 
 Steps sequence for the Task 2:
 
-![](Code/Images/Picture2.png )
+
 
 • Sampling the time data from the ultra-sonic sensor.
 • Calibration to map the time data to real distance using a fitting function.
