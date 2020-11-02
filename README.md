@@ -1,4 +1,4 @@
-# F1_10th_Level3_ADAS_Algorithm_ACC_ALC
+# F1_10th_Level3_ADAS_Algorithm_ACC_ALK
 
 ![_](https://github.com/spanthr/F1_10th_Level3_ADAS_Algorithm_ACC_ALC/blob/main/Code/Images/acc_lane_keeping.gif)
 
