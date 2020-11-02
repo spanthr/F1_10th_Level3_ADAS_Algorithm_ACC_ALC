@@ -38,7 +38,11 @@ Used piece-wise calibration equation.
 
 
 Task - 2 : Sensor fusion of two Ultrasonic Sensor
+
 Steps sequence for the Task 2:
+
+![](Code/Images/Picture2.png )
+
 • Sampling the time data from the ultra-sonic sensor.
 • Calibration to map the time data to real distance using a fitting function.
 • Fusion of two ultrasonic sensors to filter the distance data received after calibration
@@ -53,6 +57,9 @@ more accurate and reliable results.
 
 
 Task - 3 : Ultrasound-based Localization System
+
+![](Code/Images/Picture3.png )
+
 Steps sequence for the Task 3:
 •Sampling the time data from the two ultra-sonic sensor.
 •Calibration to map the time data to real distance using a fitting function.
@@ -61,8 +68,14 @@ Steps sequence for the Task 3:
 using Kalman filter.
 
 
+![](Code/Images/Picture4.png )
+
+Kalman filter
+
+![](Code/Images/Picture5.png )
+
 Solutions implemented
-• Got two new sensors from TA.
+• Used multiple sensors 
 • Inverted one of the sensors to increase the range.
 • Tried different approaches to find x-coordinates.
 ➢ Method 1
@@ -74,8 +87,27 @@ Using distance formula
 distance between sensors which covers maximum
 detection area.
 
+Hardware Setup
+
+![](Code/Images/Picture6.png )
+
+![](Code/Images/Picture7.png )
+
+![](Code/Images/Picture9.png )
+
+Result:
+
+![](Code/Images/Picture8.png )
 
 ## Project – 2: Adaptive cruise control and autonomous lane keeping
+
+Hardware_Setup 
+
+![](Code/Images/Picture20.png )
+
+Assemblying the car and 3D printed custom mounts for sensors and battery
+
+![](Code/Images/Picture15.png )
 
 Adaptive Cruise Control
 • Ensures that the vehicle cruises at a
